@@ -35,7 +35,7 @@ class Dna
   end
 
   def display
-    puts transcribe.join('')
+    transcribe.join('')
   end
 
 end
